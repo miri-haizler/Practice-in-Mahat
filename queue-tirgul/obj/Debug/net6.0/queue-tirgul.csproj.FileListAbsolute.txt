@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\queue-tirgul.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\queue-tirgul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\queue-tirgul.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\queue-tirgul.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\queue-tirgul.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\bin\Debug\net6.0\queue-tirgul.exe
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\bin\Debug\net6.0\queue-tirgul.deps.json
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\bin\Debug\net6.0\queue-tirgul.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\bin\Debug\net6.0\queue-tirgul.dll
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\bin\Debug\net6.0\queue-tirgul.pdb
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\queue-tirgul.dll
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\refint\queue-tirgul.dll
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\queue-tirgul.pdb
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\queue-tirgul.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות שנה ב\מבני נתונים מהט - סטפנסקי\queue-tirgul\queue-tirgul\obj\Debug\net6.0\ref\queue-tirgul.dll
